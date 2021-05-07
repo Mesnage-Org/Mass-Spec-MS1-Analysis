@@ -5,4 +5,4 @@ jupyterlab
 ipywidgets
 ipysheet
 openpyxl
-hide_code
+hide_code==0.5.2
